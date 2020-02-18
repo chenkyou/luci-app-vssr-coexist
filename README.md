@@ -22,7 +22,7 @@ a new SSR SS V2ray luci app bese luci-app-ssr-plus
 
 新修改插件难免有bug 请不要大惊小怪。欢迎提交bug。
 
-###  此版本已和魔改版合并
+###  此版本已和魔改版合并 共存版需配合魔改或lean原版使用
 
 #### Notice
 需要的依赖有python3-maxminddb libmaxminddb 请自行添加
