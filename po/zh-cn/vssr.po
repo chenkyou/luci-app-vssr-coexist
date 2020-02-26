@@ -39,6 +39,9 @@ msgstr "广告屏蔽设置"
 msgid "Enable adblock"
 msgstr "开启广告屏蔽"
 
+msgid "adblock_url"
+msgstr "广告屏蔽订阅"
+
 msgid "Socks user"
 msgstr "用户名"
 
@@ -59,6 +62,8 @@ msgstr "SSR SOCKS5代理"
 
 msgid "Subscription"
 msgstr "订阅管理"
+
+
 
 msgid "Subscribing,Please do not refresh!"
 msgstr "订阅，请不要刷新!"
@@ -121,10 +126,10 @@ msgid "Client"
 msgstr "客户端"
 
 msgid "Visit foreign websites"
-msgstr "访问国外网站"
+msgstr "国外网站"
 
 msgid "Visit domestic website"
-msgstr "访问国内网站"
+msgstr "国内网站"
 
 msgid "Problem detected"
 msgstr "无法访问"
@@ -234,13 +239,13 @@ msgid "Interfaces - LAN"
 msgstr "接口 - LAN"
 
 msgid "LAN Access Control"
-msgstr "内网访问控制"
+msgstr "内网客户端分流代理控制"
 
 msgid "Allow listed only"
-msgstr "仅允许列表内"
+msgstr "仅允许列表内主机"
 
 msgid "Allow all except listed"
-msgstr "仅允许列表外"
+msgstr "除列表外主机皆允许"
 
 msgid "LAN Host List"
 msgstr "内网主机列表"
@@ -248,8 +253,6 @@ msgstr "内网主机列表"
 msgid "SSR Client"
 msgstr "客户端"
 
-msgid "SSR Server"
-msgstr "服务端"
 
 msgid "ShadowSocksR Server"
 msgstr "ShadowSocksR 服务端"
@@ -636,6 +639,25 @@ msgstr "4 线程"
 msgid "8 Threads"
 msgstr "8 线程"
 
+msgid "16 Threads"
+msgstr "16 线程"
+
+msgid "32 Threads"
+msgstr "32 线程"
+
+msgid "64 Threads"
+msgstr "64 线程"
+
+msgid "128 Threads"
+msgstr "128 线程"
+
+msgid "256 Threads"
+msgstr "256 线程"
+
+msgid "512 Threads"
+msgstr "512 线程"
+
+
 msgid "Proxy Ports"
 msgstr "需要代理的端口"
 
@@ -761,12 +783,74 @@ msgstr "启用管理控制台"
 msgid "Service Port"
 msgstr "端口"
 
+msgid "Socket Connected"
+msgstr "连接测试"
+
 
 msgid "Enable HTTP Proxy"
 msgstr "启用HTTP代理"
 
 msgid "HTTP Port"
 msgstr "HTTP代理端口"
+
+msgid "plugin"
+msgstr "插件"
+
+msgid "Plugin Opts"
+msgstr "插件参数"
+
+msgid "Before subscribing please click below to delete all servers in the subscription"
+msgstr "订阅前请点击下面的删除所有服务器在订阅"
+
+msgid "Chnroute Setting"
+msgstr "国内IP段数据库更新设置"
+
+msgid "Enable custom chnroute"
+msgstr "启用自定义更新地址"
+
+msgid "Update url"
+msgstr "更新链接"
+
+msgid "HTTP Proxy"
+msgstr "HTTP代理"
+
+msgid "Raw Mode"
+msgstr "模式"
+
+msgid "Seq Mode"
+msgstr "Seq模式"
+
+msgid "Cipher Mode"
+msgstr "加密模式"
+
+msgid "Auth Mode"
+msgstr "校验模式"
+
+msgid "Speeder Mode"
+msgstr "Speeder模式"
+
+msgid "Fec"
+msgstr "fec参数"
+
+msgid "Mtu"
+msgstr "mtu参数"
+
+msgid "SS Servers"
+msgstr "SS服务器"
+
+
+msgid "SSR Servers"
+msgstr "SSR服务器"
+
+msgid "SSR Server"
+msgstr "服务端"
+
+msgid "V2 Servers"
+msgstr "V2服务器"
+
+msgid "SS/SSR/V2RAY Server"
+msgstr "SS/SSR/V2RAY 服务端"
+
 
 
 
